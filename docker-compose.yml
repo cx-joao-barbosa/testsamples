@@ -50,7 +50,6 @@ services:
     volumes:
       - ./setup/docker/mysql/db/:/docker-entrypoint-initdb.d
 
-
   redis:
     image: redis:6
     container_name: memberplus-redis
