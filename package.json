@@ -61,7 +61,7 @@
     "@svgr/webpack": "^5.5.0",
     "@tabler/icons": "^1.41.2",
     "analytics": "^0.7.18",
-    "ansi-regex": "3.0.1",
+    "ansi-regex": "6.2.2",
     "async": "3.2.2",
     "axios": "0.30.2",
     "babel-plugin-macros": "^3.1.0",
