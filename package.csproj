@@ -1,1 +1,1 @@
-//empty
+<PackageReference Include="RestSharp" Version="106.11.7" />
